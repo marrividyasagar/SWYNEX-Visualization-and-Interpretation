@@ -88,7 +88,7 @@ These findings provide an exploratory understanding of the dataset and can guide
 
 ## Repository Contents
 
-- `GSE20966_Gene_Expression_Analysis.ipynb` – Python analysis notebook
+- `SWYNEX_Data_Cleaning_Basic_Analysis.ipynb` – Python analysis notebook
 - `expression_boxplot.png` – Expression distribution
 - `correlation_heatmap.png` – Sample correlation heatmap
 - `PCA_plot_labeled.png` – PCA visualization
